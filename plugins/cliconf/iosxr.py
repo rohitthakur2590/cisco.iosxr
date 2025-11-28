@@ -30,7 +30,7 @@ description:
   CLI commands from Cisco IOS XR network devices.
 version_added: 1.0.0
 notes:
-- IOSXR commit confirmed command varies with IOSXR version releases,
+- IOSXR commit confirmed command varies with IOS-XR version releases,
   commit_comment and commit_label may or may not
   be valid together as per the device version.
 options:
