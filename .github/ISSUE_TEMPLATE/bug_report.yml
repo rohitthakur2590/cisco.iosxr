@@ -48,6 +48,7 @@ body:
       label: Hardware Platform
       description: We develop and test this collection primarily with XRv platform
       placeholder: XRv
+
     validations:
       required: false
 
